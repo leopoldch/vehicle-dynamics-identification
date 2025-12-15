@@ -10,7 +10,7 @@ This repository contains the source code and documentation for a project on iden
 ## Authors
 
 * **Léopold Chappuis**
-* **Alexandre Eberhardt**
+* **Alexandre Eberhardt** @alexandreeberhardt
 
 ## Project Objective
 
